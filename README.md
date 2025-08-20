@@ -15,10 +15,9 @@ Mention input shapes
 
 ## Citation
 
-'''bibtex
-@inproceedings{jaszczuk2025rme,
-      author = {Jaszczuk, Mateusz and Figueroa, Nadia},
-      title = {Rapid Mismatch Estimation via Neural Network Informed Variational Inference},
-      booktitle = {9th Conference on Robot Learning (CoRL)},
-      year = {2025}
-  }
+<pre><code>@inproceedings{jaszczuk2025rme,
+  author    = {Jaszczuk, Mateusz and Figueroa, Nadia},
+  title     = {Rapid Mismatch Estimation via Neural Network Informed Variational Inference},
+  booktitle = {9th Conference on Robot Learning (CoRL)},
+  year      = {2025}
+}</code></pre>
