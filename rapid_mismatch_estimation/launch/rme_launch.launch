@@ -1,0 +1,3 @@
+<launch>
+    <node name="rme_analysis" pkg="rapid_mismatch_estimation" type="rme_run_file.py" output="screen"/>
+</launch>
